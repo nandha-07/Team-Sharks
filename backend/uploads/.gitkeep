@@ -1,0 +1,6 @@
+# Uploads Directory
+
+This folder stores member profile photos uploaded via the application.
+Images are served statically at: http://localhost:5000/uploads/<filename>
+
+Do NOT delete this folder — the application requires it to exist for image uploads to work.
