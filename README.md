@@ -1,8 +1,7 @@
 # 🦈 Team Sharks — Student Team Members Management Application
 
 > A full-stack **MERN** application built for **SRM Institute of Science & Technology**  
-> to manage student team member profiles with photo uploads, edit support, and a  
-> professional **Yellow & Blue** SRM-themed UI.
+> to manage student team member profiles with photo uploads, edit support
 
 **Course:** Full Stack Development (FSD) · CT2 Group Task Online Assessment  
 **Institution:** SRM Institute of Science & Technology · *Learn · Leap · Lead*
